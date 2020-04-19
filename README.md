@@ -1,5 +1,5 @@
 # 4-Bit-Adder-Layout-Design-VLSI
-VLSI Layout (CMOS) of 4-bit adder using NAND Gate only. The layout is simulated and verified by using verilog.<br>
+VLSI Layout (CMOS) of 4-bit adder using NAND Gate only. The layout is simulated and verified using Verilog.<br>
 EDA Tool used: Electric
 
 1bit full adder requires 9 NAND gates, which leads to a total of 36 transistors, which is better comparing with the one that uses XOR, AND and OR gates. So to make a 4bit full adder we would have 4 x 36= 144 transistors in total.
